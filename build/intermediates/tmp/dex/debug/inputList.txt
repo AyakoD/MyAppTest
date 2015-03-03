@@ -1,0 +1,6 @@
+/Users/Ayako/Documents/Cranfield/Group Project/STAGE 3/metaioSDK/_Android/Templates_SDK/Template/build/intermediates/classes/debug
+/Users/Ayako/Documents/Cranfield/Group Project/STAGE 3/metaioSDK/_Android/Templates_SDK/Template/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-f94aa65983265d90c53317254af5233a2e1a1de9.jar
+/Users/Ayako/Documents/Cranfield/Group Project/STAGE 3/metaioSDK/_Android/Templates_SDK/Template/build/intermediates/pre-dexed/debug/classes-65fbb8ae07ec04c3e45fb636bc86bbc57d872264.jar
+/Users/Ayako/Documents/Cranfield/Group Project/STAGE 3/metaioSDK/_Android/Templates_SDK/Template/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-80ecebda433e997ad276dadc480ae86bba601a3c.jar
+/Users/Ayako/Documents/Cranfield/Group Project/STAGE 3/metaioSDK/_Android/Templates_SDK/Template/build/intermediates/pre-dexed/debug/metaiosdk-1c78a8f969730c4e47f36a47b4f3f2be9db8f079.jar
+/Users/Ayako/Documents/Cranfield/Group Project/STAGE 3/metaioSDK/_Android/Templates_SDK/Template/build/intermediates/pre-dexed/debug/classes-4522435b8adde60a513b977cef0ddb146e40c7bf.jar
